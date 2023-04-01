@@ -1,0 +1,166 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid white;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+header p:hover {
+    font-size: 30px;
+    color: royalblue;
+    border: 6px solid royalblue;
+    transition: 0.3s linear;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+h4 {
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+
+a {
+    font-size: 20px;
+    color: white;
+    border: 3px solid white;
+    padding: 10px; 
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 25px;
+    transition: 0.5s linear;
+    color: royalblue;
+    border: 3px solid royalblue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+img:hover {
+    width: 250px;
+    height: 250px;
+    transition: 0.5s linear;
+}
+
+iframe:hover {
+    transition: 1s linear;
+    width: 550px;
+    height: 450px;
+}
+
+p {
+    color: white;
+}
+
+.ff {
+    margin-left: 100px;
+
+}
+
+.g {
+    margin-left: 80px;
+}
+
+.uu {
+    margin-left: 15px;
+}
+
+.dd {
+    margin-left: 300px;
+}
+
+.ww {
+    margin-left: 300px;
+}
+
+.yy {
+    margin-left: 17px;
+}
+
+.aa {
+    margin-left: 300px;
+}
+
+
+.ss {
+    margin-left: 300px;
+}
+
+.oo {
+    margin-left: 60px;
+}
+
+.pp {
+    margin-left: 100px;
+}
+
+.rr {
+    margin-left: 100px;
+}
+
+.jj {
+    margin-left: 100px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 100px;
+    height:70px;
+    background-color: black;
+}
+
+.logo:hover {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 100px;
+    height:70px;
+    background-color: black;
+}
+
